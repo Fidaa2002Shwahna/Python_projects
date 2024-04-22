@@ -26,7 +26,7 @@ Image processing is a crucial aspect of computer vision and has a wide range of 
 
 To use this project, you'll need Python installed on your system.it's recommended to use a virtual environment like `pycharm .
 
-
+## Usage
 
 ![Screenshot (25)](https://github.com/Fidaa2002Shwahna/Python_projects/assets/121303770/ba537b80-57a3-478a-bb6b-f2112852d31c)
 
