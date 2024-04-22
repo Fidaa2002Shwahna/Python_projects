@@ -8,9 +8,7 @@ This project focuses on image processing using Python. It covers various techniq
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Introduction
 
 Image processing is a crucial aspect of computer vision and has a wide range of applications, including medical imaging, surveillance, object detection, and more. This project aims to provide a collection of Python scripts and tools for image processing tasks.
@@ -32,9 +30,11 @@ To use this project, you'll need Python installed on your system.it's recommende
 
 ![Screenshot (25)](https://github.com/Fidaa2002Shwahna/Python_projects/assets/121303770/ba537b80-57a3-478a-bb6b-f2112852d31c)
 
+-------------------------------------------------------------------------------------------------
 
 ![Screenshot (26)](https://github.com/Fidaa2002Shwahna/Python_projects/assets/121303770/eb4b6333-3c78-4ed8-a239-962866983318)
 
+-------------------------------------------------------------------------------------------------
 
 ![Screenshot (27)](https://github.com/Fidaa2002Shwahna/Python_projects/assets/121303770/9147d48d-534e-46f4-86f9-69468168867d)
 
