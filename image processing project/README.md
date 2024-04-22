@@ -38,5 +38,6 @@ To use this project, you'll need Python installed on your system.it's recommende
 
 ![Screenshot (27)](https://github.com/Fidaa2002Shwahna/Python_projects/assets/121303770/9147d48d-534e-46f4-86f9-69468168867d)
 
+-------------------------------------------------------------------------------------------------
 
 ![Screenshot (28)](https://github.com/Fidaa2002Shwahna/Python_projects/assets/121303770/dda0afb3-65da-47c1-8050-46ab1258251c)
