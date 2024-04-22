@@ -8,7 +8,7 @@ This project focuses on image processing using Python. It covers various techniq
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- 
+
 ## Introduction
 
 Image processing is a crucial aspect of computer vision and has a wide range of applications, including medical imaging, surveillance, object detection, and more. This project aims to provide a collection of Python scripts and tools for image processing tasks.
